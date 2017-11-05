@@ -1,0 +1,20 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront app! This app takes in orders from customers and depletes stock from the store’s inventory using MySQL.",
+  "main": "customer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teenagegrandma/Bamazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teenagegrandma/Bamazon/issues"
+  },
+  "homepage": "https://github.com/teenagegrandma/Bamazon#readme"
+}
